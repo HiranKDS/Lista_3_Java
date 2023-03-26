@@ -6,5 +6,5 @@ public String metodo1(int a, int b) {
 ...
 }
 
-Resposta : Esta errado devido aos dois construtores estarem com o mesmo nome, e também por conta do primeiro construtor estar utilizando os atributos como int
-e depois no outro construtor como String, isso não irá funcionar, e não esta correto, pois deve ser usado o que foi definido no atributo antes dos construtores.
+Resposta : Esta errado, o nomde do construtor deve ser o nome da classe, pode se ter dois construtores, mas os dois devem ter suas declarações de
+parâmetros diferentes.
