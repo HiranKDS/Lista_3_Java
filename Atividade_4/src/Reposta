@@ -1,0 +1,3 @@
+A troca dos atributos ocorre por conta que é criado como se fosse mais um atibuto que seria o temp,
+então é armazenado o valor do objeto 1 no temp e o objeto 2 toma o lugar do objeto 1, 
+após isso o objeto 2 toma o valor do objeto 1, que estava armazenado no temp. 
